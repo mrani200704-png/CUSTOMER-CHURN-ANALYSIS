@@ -179,3 +179,9 @@ Perform statistical analysis
 Visualize customer trends
 
 The project provides a strong foundation for customer analytics and predictive modeling in banking and finance systems.
+<img width="900" height="662" alt="screenshot1" src="https://github.com/user-attachments/assets/635725eb-d5ac-4954-94f5-242ce791c8b3" />
+<img width="771" height="556" alt="screenshot2" src="https://github.com/user-attachments/assets/ca4b7f62-d895-437d-9128-4353507fb79e" />
+<img width="782" height="544" alt="screenshot3" src="https://github.com/user-attachments/assets/c7df54c0-487b-4824-a4ac-e6bd649a2920" />
+<img width="792" height="544" alt="screenshot4" src="https://github.com/user-attachments/assets/5c127b49-d0f4-4d5d-a29f-666c937cb28b" />
+<img width="761" height="553" alt="screenshot5" src="https://github.com/user-attachments/assets/3ef9594f-7a7b-467c-ac68-62022a18c215" />
+
